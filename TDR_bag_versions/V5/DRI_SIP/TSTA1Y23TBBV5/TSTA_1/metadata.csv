@@ -1,0 +1,12 @@
+identifier,file_name,folder,date_last_modified,description,end_date,checksum,rights_copyright,legal_status,held_by,language,original_identifier,file_name_translation,TDR_consignment_ref,former_reference_department
+file:/TSTA1Y23TBBV5/TSTA_1/content/folder-a/file-’a1.txt,file-’a1.txt,file,2023-02-27T12:28:08,,,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/redacted/,redacted,folder,2023-03-29T08:54:48,,,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/,content,folder,2023-03-29T08:54:48,,,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/redacted/closed_file.txt,closed_file.txt,file,2023-03-28T13:50:23,,,c92a8dc3329c85755f0896b91f690a93a8729eb084037e110db3bf1525b7917d,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/folder-a/file-a2.txt,file-a2.txt,file,2023-02-27T12:28:13,,,5d11e11deb1705433b900a4b07a07cf6307b595f4121081342aa12f67989b8fa,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/folder-b/,folder-b,folder,2023-03-29T08:54:48,,,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/folder-b/file-b1.txt,file-b1.txt,file,2023-02-27T12:28:17,,,1ac5612f744314f2a32c72e562b4b548ec587888249c23ceae9c19a9b566018c,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/folder-a/,folder-a,folder,2023-03-29T08:54:48,,,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/folder-b/file-b2.txt,file-b2.txt,file,2023-02-27T12:28:22,,,b62a45f66bbc5d8f234f785b3f2342a07ef6db5fc9bcaf11273f6712a8629c05,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+"file:/TSTA1Y23TBBV5/TSTA_1/content/folder-a/file-a1,.txt","file-a1,.txt",file,2023-02-27T12:28:08,,,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,TDR-2023-BV5,
+file:/TSTA1Y23TBBV5/TSTA_1/content/redacted/closed_file_R.pdf,closed_file_R.pdf,file,2023-03-28T13:50:36,,,abcd13b28b5e5adc8ceaab0bc29fb8cddb43f1a95508148d3fe261a3dfaab9c1,Crown Copyright,Public Record(s),"The National Archives, Kew",English,file:/TSTA1Y23TBBV5/TSTA_1/content/redacted/closed_file.txt,,TDR-2023-BV5,

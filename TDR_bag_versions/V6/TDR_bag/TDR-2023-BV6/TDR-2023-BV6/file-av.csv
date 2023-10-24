@@ -1,0 +1,10 @@
+Filepath,AV-Software,AV-SoftwareVersion
+data/content/redacted/closed_file.txt,yara,4.3.1
+data/content/redacted/closed_file_R.pdf,yara,4.3.1
+data/content/redacted/closed_file_R - Copy.pdf,yara,4.3.1
+data/content/folder-a/file-a1.txt,yara,4.3.1
+data/content/folder-b/file-b1.txt,yara,4.3.1
+data/content/folder-b/file-b2.txt,yara,4.3.1
+data/content/mismatch/mismatch.docx,yara,4.3.1
+"data/content/folder-a/file-a1,.txt",yara,4.3.1
+data/content/folder-a/file-a2.txt,yara,4.3.1
