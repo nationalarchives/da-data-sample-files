@@ -1,0 +1,12 @@
+Filename,File Type,File Size,Filepath,Rights Copyright,Legal Status,Held By,Last Modified Date,Closure Type,Closure Start Date,Closure Period,Foi Exemption Code,Foi Exemption Asserted,Title Closed,Title Alternate,Description,Description Closed,Description Alternate,Language,Date Created,Date range,End date,Start date,File name language,File name translation,File name translation language,OriginalFilepath
+file-’a1.txt,File,46,data/content/folder-a/file-’a1.txt,Crown Copyright,Public Record(s),"The National Archives, Kew",2023-02-27T12:28:08,Open,,,,,False,,,False,,English,,,,,,,,
+redacted,Folder,,data/content/redacted,Crown Copyright,Public Record(s),"The National Archives, Kew",,Open,,,,,False,,,False,,English,,,,,,,,
+content,Folder,,data/content,Crown Copyright,Public Record(s),"The National Archives, Kew",,Open,,,,,False,,,False,,English,,,,,,,,
+closed_file.txt,File,4,data/content/redacted/closed_file.txt,Crown Copyright,Public Record(s),"The National Archives, Kew",2023-03-28T13:50:23,Open,,,,,False,,,False,,English,,,,,,,,
+file-a2.txt,File,45,data/content/folder-a/file-a2.txt,Crown Copyright,Public Record(s),"The National Archives, Kew",2023-02-27T12:28:13,Open,,,,,False,,,False,,English,,,,,,,,
+folder-b,Folder,,data/content/folder-b,Crown Copyright,Public Record(s),"The National Archives, Kew",,Open,,,,,False,,,False,,English,,,,,,,,
+file-b1.txt,File,45,data/content/folder-b/file-b1.txt,Crown Copyright,Public Record(s),"The National Archives, Kew",2023-02-27T12:28:17,Open,,,,,False,,,False,,English,,,,,,,,
+folder-a,Folder,,data/content/folder-a,Crown Copyright,Public Record(s),"The National Archives, Kew",,Open,,,,,False,,,False,,English,,,,,,,,
+file-b2.txt,File,45,data/content/folder-b/file-b2.txt,Crown Copyright,Public Record(s),"The National Archives, Kew",2023-02-27T12:28:22,Open,,,,,False,,,False,,English,,,,,,,,
+"file-a1,.txt",File,46,"data/content/folder-a/file-a1,.txt",Crown Copyright,Public Record(s),"The National Archives, Kew",2023-02-27T12:28:08,Open,,,,,False,,,False,,English,,,,,,,,
+closed_file_R.pdf,File,5,data/content/redacted/closed_file_R.pdf,Crown Copyright,Public Record(s),"The National Archives, Kew",2023-03-28T13:50:36,Open,,,,,False,,,False,,English,,,,,,,,data/content/redacted/closed_file.txt

@@ -1,0 +1,12 @@
+Filepath,FileName,FileType,Filesize,RightsCopyright,LegalStatus,HeldBy,Language,FoiExemptionCode,LastModified,OriginalFilePath
+data/content/folder-a/file-’a1.txt,file-’a1.txt,File,46,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-02-27T12:28:08,
+data/content/redacted,redacted,Folder,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,
+data/content,content,Folder,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,
+data/content/redacted/closed_file.txt,closed_file.txt,File,4,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-03-28T13:50:23,
+data/content/folder-a/file-a2.txt,file-a2.txt,File,45,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-02-27T12:28:13,
+data/content/folder-b,folder-b,Folder,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,
+data/content/folder-b/file-b1.txt,file-b1.txt,File,45,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-02-27T12:28:17,
+data/content/folder-a,folder-a,Folder,,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,,
+data/content/folder-b/file-b2.txt,file-b2.txt,File,45,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-02-27T12:28:22,
+"data/content/folder-a/file-a1,.txt","file-a1,.txt",File,46,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-02-27T12:28:08,
+data/content/redacted/closed_file_R.pdf,closed_file_R.pdf,File,5,Crown Copyright,Public Record(s),"The National Archives, Kew",English,,2023-03-28T13:50:36,data/content/redacted/closed_file.txt
