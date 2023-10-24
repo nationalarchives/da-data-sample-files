@@ -1,0 +1,13 @@
+Consignment-Type: standard
+Bag-Creator: TDRExportv0.0.309
+Consignment-Start-Datetime: 2023-07-28T09:32:34Z
+Consignment-Series: MOCK1 123
+Source-Organization: MOCK1 Department
+Contact-Name: Test First Name Test Last Name
+Consignment-Include-Top-Level-Folder: false
+Internal-Sender-Identifier: TDR-2023-MNJ
+Consignment-Completed-Datetime: 2023-07-28T09:34:05Z
+Consignment-Export-Datetime: 2023-07-28T09:34:45Z
+Contact-Email: ufcco8tw@testsomething.com
+Payload-Oxum: 0.1
+Bagging-Date: 2023-07-28
