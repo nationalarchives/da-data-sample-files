@@ -1,7 +1,6 @@
-c92a8dc3329c85755f0896b91f690a93a8729eb084037e110db3bf1525b7917d  data/content/redacted/closed_file.txt
-1ac5612f744314f2a32c72e562b4b548ec587888249c23ceae9c19a9b566018c  data/content/folder-b/file-b1.txt
-b62a45f66bbc5d8f234f785b3f2342a07ef6db5fc9bcaf11273f6712a8629c05  data/content/folder-b/file-b2.txt
+53d7e0b4555e6fcbb72de20f962d7b56bf5905032f21beec9a9278b2fd2fa052  data/content/redacted/closed_file.txt
+7378fd2184dc4d847ed1ac048658a3cfc2be93eb239da08a16cc09b1157739d1  data/content/folder-b/file-b1.txt
+a0c5eee2309fb2f87d3e32c55b30b522be04665345464a672acf30eade9f088b  data/content/folder-b/file-b2.txt
 abcd13b28b5e5adc8ceaab0bc29fb8cddb43f1a95508148d3fe261a3dfaab9c1  data/content/redacted/closed_file_R.pdf
-4ef13f1d2350fe1e9f79a88ec063031f65da834e8afdd0512e230544cca0a34b  data/content/folder-a/file-’a1,.txt
 4ef13f1d2350fe1e9f79a88ec063031f65da834e8afdd0512e230544cca0a34b  data/content/folder-a/file-a1.txt
-5d11e11deb1705433b900a4b07a07cf6307b595f4121081342aa12f67989b8fa  data/content/folder-a/file-a2.txt
+fc26b66045a653650d483739572f47bac2ab0ef43e66981a5c1d0fb5c86bf14c  data/content/folder-a/file-a2.txt
