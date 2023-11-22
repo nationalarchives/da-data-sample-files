@@ -1,0 +1,18 @@
+{
+  "properties" : {
+    "messageType" : "uk.gov.nationalarchives.da.messages.bag.available.BagAvailable",
+    "timestamp" : "2023-03-29T11:00:12.280Z",
+    "function" : "tdr-export-process",
+    "producer" : "TDR",
+    "executionId" : "45be6508-b693-441d-a0d6-defb3f41c1qs",
+    "parentExecutionId" : null
+  },
+  "parameters" : {
+    "reference" : "TDR-2023-H2QS",
+    "originator" : "TDR",
+    "consignmentType" : "STANDARD",
+    "s3Bucket" : "dev-ddt-sample-data",
+    "s3BagKey" : "tdr_consignments/archived/V5/TDR-2023-H2QS/TDR-2023-H2QS.tar.gz",
+    "s3BagSha256Key" : "tdr_consignments/archived/V5/TDR-2023-H2QS/TDR-2023-H2QS.tar.gz.sha256"
+  }
+}
