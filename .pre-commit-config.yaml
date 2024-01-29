@@ -16,4 +16,4 @@ repos:
     hooks:
     -   id: detect-secrets
         args: ['--baseline', '.secrets.baseline']
-exclude: 'da-data-sample-files/tdr_consignments/unarchived/.*'
+exclude: 'tdr_consignments/unarchived/.*'
