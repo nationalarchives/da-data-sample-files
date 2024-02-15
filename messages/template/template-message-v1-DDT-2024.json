@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "messageType" : "uk.gov.nationalarchives.da.messages.template.message.TemplateMessage",
+    "timestamp" : "2023-01-12T11:00:12.280Z",
+    "function" : "ddt-template-message",
+    "producer" : "DDT",
+    "executionId" : "2b7d37c4-ff58-488e-b0ba-ff305d588dc9",
+    "messageId" : "b6e98d5d-1466-4b55-aa6c-5440052e1e7c",
+    "parentExecutionId" : "ce3dc666-b42d-47d3-a6bc-a5c3bceef545"
+  },
+  "parameters" : {
+    "reference" : "DDT-2023-DHU1",
+    "originator" : "DDT",
+    "consignmentType" : "STANDARD",
+    "s3Bucket" : "tdr-consignment-export-judgment-prod",
+    "s3Key" : "TDR-2024-JBFL/857395c9-3931-44be-aa8b-d772c61324b6/TRE-TDR-2024-JBFL.tar.gz",
+    "parserInstructions" :  {
+      "documentType" : "pressSummary"
+    },
+    "documentType" : "pressSummary",
+    "status" : "COURT_DOCUMENT_PARSE_NO_ERRORS",
+    "s3BagKey" : "TDR-1234-ABCD/0f0934f3-edb2-4345-9918-fcdb92bcb67d/TDR-1234-ABCD.tar.gz",
+    "s3BagSha256Key" : "TDR-1234-ABCD/0f0934f3-edb2-4345-9918-fcdb92bcb67d/TDR-1234-ABCD.tar.gz.sha256",
+    "s3FolderName" : "TDR-2024-JBFL/c8a05de8-bc64-41d7-9aeb-8b407b1c8e41/TDR-2024-JBFL/out",
+    "metadataFilePath" : "/metadata.json",
+    "metadataFileType" : "Json",
+    "s3ObjectRoot" : "court-documents/TDR-1234-ABCD/3352285d-6466-4ad8-804d-2e89e3dc0941"
+  }
+}
