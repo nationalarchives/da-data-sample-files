@@ -24,6 +24,10 @@
     "s3FolderName" : "TDR-2024-JBFL/c8a05de8-bc64-41d7-9aeb-8b407b1c8e41/TDR-2024-JBFL/out",
     "metadataFilePath" : "/metadata.json",
     "metadataFileType" : "Json",
-    "s3ObjectRoot" : "court-documents/TDR-1234-ABCD/3352285d-6466-4ad8-804d-2e89e3dc0941"
-  }
+    "s3ObjectRoot" : "court-documents/TDR-1234-ABCD/3352285d-6466-4ad8-804d-2e89e3dc0941",
+    "errors" : {
+				"Error":"NoSuchKey",
+				"Cause":"An error occurred (NoSuchKey)"
+				}
+	}
 }
