@@ -1,0 +1,8 @@
+Filepath,Extension,PUID,FormatName,ExtensionMismatch,FFID-Software,FFID-SoftwareVersion,FFID-BinarySignatureFileVersion,FFID-ContainerSignatureFileVersion
+"data/content/folder-a/file-a1,.txt",txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/content/folder-b/file-b2.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/content/folder-a/file-a1.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/content/folder-b/file-b1.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/content/folder-a/file-a2.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/content/redacted/closed_file_R.pdf,,,,false,Droid,6.7.0,116,20231127
+data/content/redacted/closed_file.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127

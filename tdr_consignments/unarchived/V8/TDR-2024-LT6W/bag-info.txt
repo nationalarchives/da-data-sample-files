@@ -1,0 +1,13 @@
+Consignment-Type: standard
+Bag-Creator: TDRExportv0.0.418
+Consignment-Start-Datetime: 2024-04-29T10:16:21Z
+Consignment-Series: TSTA 1
+Source-Organization: Testing A
+Contact-Name: Paul Young
+Consignment-Include-Top-Level-Folder: false
+Internal-Sender-Identifier: TDR-2024-LT6W
+Consignment-Completed-Datetime: 2024-04-29T10:32:44Z
+Consignment-Export-Datetime: 2024-04-29T10:33:33Z
+Contact-Email: paul.young@something2.com
+Payload-Oxum: 236.7
+Bagging-Date: 2024-04-29
