@@ -1,0 +1,6 @@
+Filepath,Extension,PUID,FormatName,ExtensionMismatch,FFID-Software,FFID-SoftwareVersion,FFID-BinarySignatureFileVersion,FFID-ContainerSignatureFileVersion
+data/my-content/user evaluation model values and comments.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/my-content/folder1/folder2/folder3/folder4/Name split heuristics.txt,txt,x-fmt/111,Plain Text File,false,Droid,6.7.0,116,20231127
+data/my-content/folder1/folder2/folder3/folder4/folder6/CSV Schema Language example.PNG,PNG,fmt/12,Portable Network Graphics,false,Droid,6.7.0,116,20231127
+data/my-content/folder1/folder2/folder3/DiAGRAM-Roboto.png,png,fmt/12,Portable Network Graphics,false,Droid,6.7.0,116,20231127
+data/my-content/folder1/folder2/folder3/folder5/exporting from DROID.png,png,fmt/12,Portable Network Graphics,false,Droid,6.7.0,116,20231127

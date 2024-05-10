@@ -1,0 +1,13 @@
+Consignment-Type: standard
+Bag-Creator: TDRExportv0.0.418
+Consignment-Start-Datetime: 2024-05-07T08:53:51Z
+Consignment-Series: MOCK1 123
+Source-Organization: Mock 1 Department
+Contact-Name: David Underdown
+Consignment-Include-Top-Level-Folder: true
+Internal-Sender-Identifier: TDR-2024-L2SP
+Consignment-Completed-Datetime: 2024-05-07T08:55:53Z
+Consignment-Export-Datetime: 2024-05-07T08:56:39Z
+Contact-Email: david.underdown@nationalarchives.gov.uk
+Payload-Oxum: 1164195.5
+Bagging-Date: 2024-05-07

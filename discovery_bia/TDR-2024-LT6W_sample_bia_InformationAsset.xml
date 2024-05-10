@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BIA>
+  <InformationAsset>
+    <IAID>ZDD62J</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>TSTA 1/ZDD62J</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <FormerReferenceDep></FormerReferenceDep>
+    <Title>file-b2.txt</Title>
+    <CoveringDates>2023-03-29T00:00:00</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <PhysicalCondition/>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <Note/>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>50</ClosureCode>
+    <RecordOpeningDate>2073-03-30T00:00:00</RecordOpeningDate>
+    <ClosureStatus>C</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <ScopeContent>
+      <Description></Description>
+    </ScopeContent>
+    <RelatedMaterials>
+      <RelatedMaterial>
+        <Description/>
+        <IAID/>
+        <Catalogue_ID2/>
+        <Level_no2/>
+      </RelatedMaterial>
+    </RelatedMaterials>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <AdministrativeBackground/>
+    <CorporateNames>
+      <CorporateName>
+        <Corporate_Body_Name_Text/>
+      </CorporateName>
+    </CorporateNames>
+    <BatchId>TDR-2024-LT6W</BatchId>
+    <CoveringFromDate>2023-03-29T00:00:00</CoveringFromDate>
+    <CoveringToDate>2023-03-29T00:00:00</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId/>
+        <ReplicaPreview/>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDD62C</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>TSTA 1/ZDD62C</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <FormerReferenceDep></FormerReferenceDep>
+    <Title>file-a1.txt</Title>
+    <CoveringDates>2023-03-29T00:00:00</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <PhysicalCondition/>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <Note/>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate/>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <ScopeContent>
+      <Description></Description>
+    </ScopeContent>
+    <RelatedMaterials>
+      <RelatedMaterial>
+        <Description/>
+        <IAID/>
+        <Catalogue_ID2/>
+        <Level_no2/>
+      </RelatedMaterial>
+    </RelatedMaterials>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <AdministrativeBackground/>
+    <CorporateNames>
+      <CorporateName>
+        <Corporate_Body_Name_Text/>
+      </CorporateName>
+    </CorporateNames>
+    <BatchId>TDR-2024-LT6W</BatchId>
+    <CoveringFromDate>2023-03-29T00:00:00</CoveringFromDate>
+    <CoveringToDate>2023-03-29T00:00:00</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</ReplicaId>
+        <ReplicaPreview/>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDD62D</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>TSTA 1/ZDD62D</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <FormerReferenceDep></FormerReferenceDep>
+    <Title>file-b1.txt</Title>
+    <CoveringDates>2023-03-29T00:00:00</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <PhysicalCondition/>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <Note/>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate/>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <ScopeContent>
+      <Description></Description>
+    </ScopeContent>
+    <RelatedMaterials>
+      <RelatedMaterial>
+        <Description/>
+        <IAID/>
+        <Catalogue_ID2/>
+        <Level_no2/>
+      </RelatedMaterial>
+    </RelatedMaterials>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <AdministrativeBackground/>
+    <CorporateNames>
+      <CorporateName>
+        <Corporate_Body_Name_Text/>
+      </CorporateName>
+    </CorporateNames>
+    <BatchId>TDR-2024-LT6W</BatchId>
+    <CoveringFromDate>2023-03-29T00:00:00</CoveringFromDate>
+    <CoveringToDate>2023-03-29T00:00:00</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>14576aea-1322-45d5-aa64-63f4e91654bc</ReplicaId>
+        <ReplicaPreview/>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDD628</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>TSTA 1/ZDD628</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <FormerReferenceDep></FormerReferenceDep>
+    <Title>file-a2.txt</Title>
+    <CoveringDates>2023-03-29T00:00:00</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <PhysicalCondition/>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <Note/>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>20</ClosureCode>
+    <RecordOpeningDate>2043-03-29T00:00:00</RecordOpeningDate>
+    <ClosureStatus>D</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <ScopeContent>
+      <Description>This is a sensitive description</Description>
+    </ScopeContent>
+    <RelatedMaterials>
+      <RelatedMaterial>
+        <Description/>
+        <IAID/>
+        <Catalogue_ID2/>
+        <Level_no2/>
+      </RelatedMaterial>
+    </RelatedMaterials>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <AdministrativeBackground/>
+    <CorporateNames>
+      <CorporateName>
+        <Corporate_Body_Name_Text/>
+      </CorporateName>
+    </CorporateNames>
+    <BatchId>TDR-2024-LT6W</BatchId>
+    <CoveringFromDate>2023-03-29T00:00:00</CoveringFromDate>
+    <CoveringToDate>2023-03-29T00:00:00</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId/>
+        <ReplicaPreview/>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDD62F</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>TSTA 1/ZDD62F</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <FormerReferenceDep></FormerReferenceDep>
+    <Title>closed_file_R.pdf</Title>
+    <CoveringDates>2023-03-29T00:00:00</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <PhysicalCondition/>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <Note/>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate/>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <ScopeContent>
+      <Description></Description>
+    </ScopeContent>
+    <RelatedMaterials>
+      <RelatedMaterial>
+        <Description/>
+        <IAID/>
+        <Catalogue_ID2/>
+        <Level_no2/>
+      </RelatedMaterial>
+    </RelatedMaterials>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <AdministrativeBackground/>
+    <CorporateNames>
+      <CorporateName>
+        <Corporate_Body_Name_Text/>
+      </CorporateName>
+    </CorporateNames>
+    <BatchId>TDR-2024-LT6W</BatchId>
+    <CoveringFromDate>2023-03-29T00:00:00</CoveringFromDate>
+    <CoveringToDate>2023-03-29T00:00:00</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>2b4efed7-2464-467c-a9bc-7132264538d4</ReplicaId>
+        <ReplicaPreview/>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDD62K</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>TSTA 1/ZDD62K</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <FormerReferenceDep></FormerReferenceDep>
+    <Title>closed_file.txt</Title>
+    <CoveringDates>2023-03-29T00:00:00</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <PhysicalCondition/>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <Note/>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>20</ClosureCode>
+    <RecordOpeningDate>2043-03-30T01:00:00</RecordOpeningDate>
+    <ClosureStatus>C</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <ScopeContent>
+      <Description></Description>
+    </ScopeContent>
+    <RelatedMaterials>
+      <RelatedMaterial>
+        <Description/>
+        <IAID/>
+        <Catalogue_ID2/>
+        <Level_no2/>
+      </RelatedMaterial>
+    </RelatedMaterials>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <AdministrativeBackground/>
+    <CorporateNames>
+      <CorporateName>
+        <Corporate_Body_Name_Text/>
+      </CorporateName>
+    </CorporateNames>
+    <BatchId>TDR-2024-LT6W</BatchId>
+    <CoveringFromDate>2023-03-29T00:00:00</CoveringFromDate>
+    <CoveringToDate>2023-03-29T00:00:00</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId/>
+        <ReplicaPreview/>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+</BIA>

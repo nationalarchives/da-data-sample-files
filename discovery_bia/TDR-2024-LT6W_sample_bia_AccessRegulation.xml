@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BIA>
+  <AccessRegulation>
+    <RelatedToIA>ZDD62J</RelatedToIA>
+    <ClosureCriterions>
+      <ClosureCriterion>
+        <ExemptionCodeId>40(2)</ExemptionCodeId>
+      </ClosureCriterion>
+    </ClosureCriterions>
+    <SignedDate>2024-03-03T00:00:00</SignedDate>
+    <ReviewDate></ReviewDate>
+    <ReconsiderDueInDate/>
+    <Explanation></Explanation>
+    <ProcatTitle>Exemption</ProcatTitle>
+  </AccessRegulation>
+  <AccessRegulation>
+    <RelatedToIA>ZDD628</RelatedToIA>
+    <ClosureCriterions>
+      <ClosureCriterion>
+        <ExemptionCodeId>29</ExemptionCodeId>
+      </ClosureCriterion>
+      <ClosureCriterion>
+        <ExemptionCodeId>40(2)</ExemptionCodeId>
+      </ClosureCriterion>
+    </ClosureCriterions>
+    <SignedDate>2024-03-11T00:00:00</SignedDate>
+    <ReviewDate></ReviewDate>
+    <ReconsiderDueInDate/>
+    <Explanation></Explanation>
+    <ProcatTitle>Exemption</ProcatTitle>
+  </AccessRegulation>
+  <AccessRegulation>
+    <RelatedToIA>ZDD62K</RelatedToIA>
+    <ClosureCriterions>
+      <ClosureCriterion>
+        <ExemptionCodeId>40(2)</ExemptionCodeId>
+      </ClosureCriterion>
+    </ClosureCriterions>
+    <SignedDate>2024-03-11T00:00:00</SignedDate>
+    <ReviewDate></ReviewDate>
+    <ReconsiderDueInDate/>
+    <Explanation></Explanation>
+    <ProcatTitle>Exemption</ProcatTitle>
+  </AccessRegulation>
+</BIA>

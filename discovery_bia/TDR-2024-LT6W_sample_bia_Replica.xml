@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BIA>
+  <Replica>
+    <Id>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</Id>
+    <RelatedToIA>ZDD62C</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDD62C</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>file-a1.txt</DigitalFileName>
+            <DigitalFileRef>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</DigitalFileRef>
+            <DigitalFilePartNumber/>
+            <DigitalFileSize>0</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFileFormat/>
+            <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
+            <DigitalFileDirectory completePath="TSTA 1/folder-a">
+              <Folder>
+                <Label>folder-a</Label>
+                <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
+                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+              </Folder>
+              <Folder>
+                <Label>TSTA 1</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ParentID/>
+              </Folder>
+            </DigitalFileDirectory>
+            <DigitalFileDirectory completePath="TSTA 1/folder-b">
+              <Folder>
+                <Label>folder-b</Label>
+                <ID>616057a9-f5b7-4dd0-a26d-ba556494c8e2</ID>
+                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+              </Folder>
+              <Folder>
+                <Label>TSTA 1</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ParentID/>
+              </Folder>
+            </DigitalFileDirectory>
+            <DigitalFileDirectory completePath="TSTA 1/redacted">
+              <Folder>
+                <Label>redacted</Label>
+                <ID>207d2eb1-c976-4099-851f-830e7c3113a9</ID>
+                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+              </Folder>
+              <Folder>
+                <Label>TSTA 1</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ParentID/>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>A</ClosureType>
+            <ClosureCode>0</ClosureCode>
+            <RecordOpeningDate/>
+            <ClosureStatus>O</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>A</ClosureType>
+        <ClosureCode>0</ClosureCode>
+        <RecordOpeningDate/>
+        <ClosureStatus>O</ClosureStatus>
+      </Folio>
+    </Folios>
+    <WholeDocFlag>needed?</WholeDocFlag>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate/>
+    <ClosureStatus>O</ClosureStatus>
+  </Replica>
+</BIA>
