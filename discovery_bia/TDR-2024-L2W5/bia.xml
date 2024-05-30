@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BIA>
+  <InformationAsset>
+    <IAID>ZDF6F3</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>MOCK1 123/ZDF6F3</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <Title>user evaluation model values and comments.txt</Title>
+    <CoveringDates>2020 Oct 02</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <BatchId>TDR-2024-L2W5</BatchId>
+    <CoveringFromDate>20201002</CoveringFromDate>
+    <CoveringToDate>20201002</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>8652eb18-b189-4d4b-926e-578298156a8e</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDF6DR</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>MOCK1 123/ZDF6DR</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <Title>Name split heuristics.txt</Title>
+    <CoveringDates>2023 Aug 10</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <BatchId>TDR-2024-L2W5</BatchId>
+    <CoveringFromDate>20230810</CoveringFromDate>
+    <CoveringToDate>20230810</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>7f5fcab3-8764-4407-89c7-7c78e7407100</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDF6DN</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>MOCK1 123/ZDF6DN</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <Title>CSV Schema Language example.PNG</Title>
+    <CoveringDates>2020 Jan 09</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <BatchId>TDR-2024-L2W5</BatchId>
+    <CoveringFromDate>20200109</CoveringFromDate>
+    <CoveringToDate>20200109</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>f1d7711b-9e15-4894-8930-1e712ce2a94a</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDF6DP</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>MOCK1 123/ZDF6DP</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <Title>DiAGRAM-Roboto.png</Title>
+    <CoveringDates>2020 Oct 19</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <BatchId>TDR-2024-L2W5</BatchId>
+    <CoveringFromDate>20201019</CoveringFromDate>
+    <CoveringToDate>20201019</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>1a67baf4-afce-444c-803a-2547023a0dd8</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <InformationAsset>
+    <IAID>ZDF6F2</IAID>
+    <SourceLevelId>6</SourceLevelId>
+    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <Reference>MOCK1 123/ZDF6F2</Reference>
+    <CatalogueId>0</CatalogueId>
+    <Language>English</Language>
+    <LegalStatus>Public Record(s)</LegalStatus>
+    <Title>exporting from DROID.png</Title>
+    <CoveringDates>2019 May 14</CoveringDates>
+    <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+    <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+    <HeldBy>
+      <HeldBy>
+        <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+      </HeldBy>
+    </HeldBy>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+    <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+    <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+    <BatchId>TDR-2024-L2W5</BatchId>
+    <CoveringFromDate>20190514</CoveringFromDate>
+    <CoveringToDate>20190514</CoveringToDate>
+    <LiveFlag>0</LiveFlag>
+    <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>e2a12675-6e9b-4622-bb8a-a0f2b5a45c83</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
+  </InformationAsset>
+  <Replica>
+    <Id>8652eb18-b189-4d4b-926e-578298156a8e</Id>
+    <RelatedToIA>ZDF6F3</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDF6F3</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>user evaluation model values and comments.txt</DigitalFileName>
+            <DigitalFileRef>8652eb18-b189-4d4b-926e-578298156a8e</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>4</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFileFormat>MIME type</DigitalFileFormat>
+            <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/my-content">
+              <Folder>
+                <Label>my-content</Label>
+                <Label>MOCK1 123</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>A</ClosureType>
+            <ClosureCode>0</ClosureCode>
+            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <ClosureStatus>O</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>A</ClosureType>
+        <ClosureCode>0</ClosureCode>
+        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <ClosureStatus>O</ClosureStatus>
+      </Folio>
+    </Folios>
+    <WholeDocFlag>needed?</WholeDocFlag>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>7f5fcab3-8764-4407-89c7-7c78e7407100</Id>
+    <RelatedToIA>ZDF6DR</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDF6DR</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>Name split heuristics.txt</DigitalFileName>
+            <DigitalFileRef>7f5fcab3-8764-4407-89c7-7c78e7407100</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>1</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFileFormat>MIME type</DigitalFileFormat>
+            <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/my-content/folder1/folder2/folder3/folder4">
+              <Folder>
+                <Label>folder4</Label>
+                <ID>b14d2b07-7903-484a-b667-a7e5a228aaa9</ID>
+                <ParentID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder3</Label>
+                <ID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ID>
+                <ParentID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ID>
+                <ParentID>9dcde92c-e043-41c6-86a8-ee727b40a458</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>9dcde92c-e043-41c6-86a8-ee727b40a458</ID>
+                <ParentID>872f80ef-3fcf-4591-9430-c8b8bfe2291d</ParentID>
+              </Folder>
+              <Folder>
+                <Label>my-content</Label>
+                <Label>MOCK1 123</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>A</ClosureType>
+            <ClosureCode>0</ClosureCode>
+            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <ClosureStatus>O</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>A</ClosureType>
+        <ClosureCode>0</ClosureCode>
+        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <ClosureStatus>O</ClosureStatus>
+      </Folio>
+    </Folios>
+    <WholeDocFlag>needed?</WholeDocFlag>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>f1d7711b-9e15-4894-8930-1e712ce2a94a</Id>
+    <RelatedToIA>ZDF6DN</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDF6DN</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>CSV Schema Language example.PNG</DigitalFileName>
+            <DigitalFileRef>f1d7711b-9e15-4894-8930-1e712ce2a94a</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>4</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFileFormat>MIME type</DigitalFileFormat>
+            <DigitalFilePUID>fmt/12</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/my-content/folder1/folder2/folder3/folder4/folder6">
+              <Folder>
+                <Label>folder6</Label>
+                <ID>0505cf97-f0cb-4021-8ce5-c3bdb7f3c1d9</ID>
+                <ParentID>b14d2b07-7903-484a-b667-a7e5a228aaa9</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder4</Label>
+                <ID>b14d2b07-7903-484a-b667-a7e5a228aaa9</ID>
+                <ParentID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder3</Label>
+                <ID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ID>
+                <ParentID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ID>
+                <ParentID>9dcde92c-e043-41c6-86a8-ee727b40a458</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>9dcde92c-e043-41c6-86a8-ee727b40a458</ID>
+                <ParentID>872f80ef-3fcf-4591-9430-c8b8bfe2291d</ParentID>
+              </Folder>
+              <Folder>
+                <Label>my-content</Label>
+                <Label>MOCK1 123</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>A</ClosureType>
+            <ClosureCode>0</ClosureCode>
+            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <ClosureStatus>O</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>A</ClosureType>
+        <ClosureCode>0</ClosureCode>
+        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <ClosureStatus>O</ClosureStatus>
+      </Folio>
+    </Folios>
+    <WholeDocFlag>needed?</WholeDocFlag>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>1a67baf4-afce-444c-803a-2547023a0dd8</Id>
+    <RelatedToIA>ZDF6DP</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDF6DP</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>DiAGRAM-Roboto.png</DigitalFileName>
+            <DigitalFileRef>1a67baf4-afce-444c-803a-2547023a0dd8</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>1081</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFileFormat>MIME type</DigitalFileFormat>
+            <DigitalFilePUID>fmt/12</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/my-content/folder1/folder2/folder3">
+              <Folder>
+                <Label>folder3</Label>
+                <ID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ID>
+                <ParentID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ID>
+                <ParentID>9dcde92c-e043-41c6-86a8-ee727b40a458</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>9dcde92c-e043-41c6-86a8-ee727b40a458</ID>
+                <ParentID>872f80ef-3fcf-4591-9430-c8b8bfe2291d</ParentID>
+              </Folder>
+              <Folder>
+                <Label>my-content</Label>
+                <Label>MOCK1 123</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>A</ClosureType>
+            <ClosureCode>0</ClosureCode>
+            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <ClosureStatus>O</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>A</ClosureType>
+        <ClosureCode>0</ClosureCode>
+        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <ClosureStatus>O</ClosureStatus>
+      </Folio>
+    </Folios>
+    <WholeDocFlag>needed?</WholeDocFlag>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>e2a12675-6e9b-4622-bb8a-a0f2b5a45c83</Id>
+    <RelatedToIA>ZDF6F2</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDF6F2</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>exporting from DROID.png</DigitalFileName>
+            <DigitalFileRef>e2a12675-6e9b-4622-bb8a-a0f2b5a45c83</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>44</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFileFormat>MIME type</DigitalFileFormat>
+            <DigitalFilePUID>fmt/12</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/my-content/folder1/folder2/folder3/folder5">
+              <Folder>
+                <Label>folder5</Label>
+                <ID>c53cb79c-2a4d-4d5c-90a8-826176885442</ID>
+                <ParentID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder3</Label>
+                <ID>c9d79095-17e2-47d1-9baa-34cbec512fc8</ID>
+                <ParentID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>6dc9a88b-d2e1-4c59-9e8c-da1ee22bdf8f</ID>
+                <ParentID>9dcde92c-e043-41c6-86a8-ee727b40a458</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>9dcde92c-e043-41c6-86a8-ee727b40a458</ID>
+                <ParentID>872f80ef-3fcf-4591-9430-c8b8bfe2291d</ParentID>
+              </Folder>
+              <Folder>
+                <Label>my-content</Label>
+                <Label>MOCK1 123</Label>
+                <ID>&lt;placeholder for series ID&gt;</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>A</ClosureType>
+            <ClosureCode>0</ClosureCode>
+            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <ClosureStatus>O</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>A</ClosureType>
+        <ClosureCode>0</ClosureCode>
+        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <ClosureStatus>O</ClosureStatus>
+      </Folio>
+    </Folios>
+    <WholeDocFlag>needed?</WholeDocFlag>
+    <ClosureType>A</ClosureType>
+    <ClosureCode>0</ClosureCode>
+    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <ClosureStatus>O</ClosureStatus>
+  </Replica>
+</BIA>
