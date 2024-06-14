@@ -4,7 +4,7 @@
   <InformationAsset>
     <IAID>ZDD629</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD629</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -20,7 +20,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -38,7 +38,7 @@
   <InformationAsset>
     <IAID>ZDD62J</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD62J</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -67,7 +67,7 @@
   <InformationAsset>
     <IAID>ZDD62C</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD62C</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -83,7 +83,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -101,7 +101,7 @@
   <InformationAsset>
     <IAID>ZDD62D</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD62D</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -117,7 +117,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -135,7 +135,7 @@
   <InformationAsset>
     <IAID>ZDD628</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD628</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -167,7 +167,7 @@
   <InformationAsset>
     <IAID>ZDD62F</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD62F</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -183,7 +183,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -207,7 +207,7 @@
   <InformationAsset>
     <IAID>ZDD62K</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
     <Reference>TSTA 1/ZDD62K</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -252,35 +252,33 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>0</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
             <DigitalFileDirectory completePath="TSTA 1/folder-a">
               <Folder>
                 <Label>folder-a</Label>
                 <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
-                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
               </Folder>
               <Folder>
                 <Label>TSTA 1</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -296,35 +294,33 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>0</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
             <DigitalFileDirectory completePath="TSTA 1/folder-a">
               <Folder>
                 <Label>folder-a</Label>
                 <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
-                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
               </Folder>
               <Folder>
                 <Label>TSTA 1</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -340,35 +336,33 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>0</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
             <DigitalFileDirectory completePath="TSTA 1/folder-b">
               <Folder>
                 <Label>folder-b</Label>
                 <ID>616057a9-f5b7-4dd0-a26d-ba556494c8e2</ID>
-                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
               </Folder>
               <Folder>
                 <Label>TSTA 1</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -384,35 +378,33 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>0</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID/>
             <DigitalFileDirectory completePath="TSTA 1/redacted">
               <Folder>
                 <Label>redacted</Label>
                 <ID>207d2eb1-c976-4099-851f-830e7c3113a9</ID>
-                <ParentID>015656f2-25af-4914-8590-ccf1657d6c7a</ParentID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
               </Folder>
               <Folder>
                 <Label>TSTA 1</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <AccessRegulation>

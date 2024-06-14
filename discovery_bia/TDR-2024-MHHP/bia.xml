@@ -4,7 +4,7 @@
   <InformationAsset>
     <IAID>ZDG7J9</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
     <Reference>MOCK1 123/ZDG7J9</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -20,7 +20,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -38,7 +38,7 @@
   <InformationAsset>
     <IAID>ZDG7HV</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
     <Reference>MOCK1 123/ZDG7HV</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -54,7 +54,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -72,7 +72,7 @@
   <InformationAsset>
     <IAID>ZDG7J5</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
     <Reference>MOCK1 123/ZDG7J5</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -88,7 +88,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -106,7 +106,7 @@
   <InformationAsset>
     <IAID>ZDG7J6</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
     <Reference>MOCK1 123/ZDG7J6</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -122,7 +122,7 @@
     </HeldBy>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -140,7 +140,7 @@
   <InformationAsset>
     <IAID>ZDG7J8</IAID>
     <SourceLevelId>6</SourceLevelId>
-    <ParentIAID>Placeholder to be retrieved for series</ParentIAID>
+    <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
     <Reference>MOCK1 123/ZDG7J8</Reference>
     <CatalogueId>0</CatalogueId>
     <Language>English</Language>
@@ -157,7 +157,7 @@
     <Note>This record has the extension .jpg but has been identified as a Portable Network Graphics File</Note>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
     <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
     <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
@@ -185,7 +185,6 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>1</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
             <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3/folder4">
               <Folder>
@@ -206,29 +205,28 @@
               <Folder>
                 <Label>folder1</Label>
                 <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
-                <ParentID>b2ee8280-3773-4c9c-a6d2-5cd311b35cdf</ParentID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
               </Folder>
               <Folder>
                 <Label>MOCK1 123</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -244,7 +242,6 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>4</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>fmt/12</DigitalFilePUID>
             <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3/folder4/folder6">
               <Folder>
@@ -270,29 +267,28 @@
               <Folder>
                 <Label>folder1</Label>
                 <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
-                <ParentID>b2ee8280-3773-4c9c-a6d2-5cd311b35cdf</ParentID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
               </Folder>
               <Folder>
                 <Label>MOCK1 123</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -308,7 +304,6 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>44</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>fmt/12</DigitalFilePUID>
             <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3/folder5">
               <Folder>
@@ -329,29 +324,28 @@
               <Folder>
                 <Label>folder1</Label>
                 <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
-                <ParentID>b2ee8280-3773-4c9c-a6d2-5cd311b35cdf</ParentID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
               </Folder>
               <Folder>
                 <Label>MOCK1 123</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -367,30 +361,28 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>4</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
             <DigitalFileDirectory completePath="MOCK1 123">
               <Folder>
                 <Label>MOCK1 123</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
@@ -406,7 +398,6 @@
             <DigitalFilePartNumber>1</DigitalFilePartNumber>
             <DigitalFileSize>1081</DigitalFileSize>
             <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
-            <DigitalFileFormat>MIME type</DigitalFileFormat>
             <DigitalFilePUID>fmt/12</DigitalFilePUID>
             <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3">
               <Folder>
@@ -422,29 +413,28 @@
               <Folder>
                 <Label>folder1</Label>
                 <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
-                <ParentID>b2ee8280-3773-4c9c-a6d2-5cd311b35cdf</ParentID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
               </Folder>
               <Folder>
                 <Label>MOCK1 123</Label>
-                <ID>&lt;placeholder for series ID&gt;</ID>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
               </Folder>
             </DigitalFileDirectory>
             <ClosureType>A</ClosureType>
             <ClosureCode>0</ClosureCode>
-            <RecordOpeningDate>20240530</RecordOpeningDate>
+            <RecordOpeningDate>20240614</RecordOpeningDate>
             <ClosureStatus>O</ClosureStatus>
           </DigitalFile>
         </DigitalFiles>
         <ClosureType>A</ClosureType>
         <ClosureCode>0</ClosureCode>
-        <RecordOpeningDate>20240530</RecordOpeningDate>
+        <RecordOpeningDate>20240614</RecordOpeningDate>
         <ClosureStatus>O</ClosureStatus>
       </Folio>
     </Folios>
-    <WholeDocFlag>needed?</WholeDocFlag>
     <ClosureType>A</ClosureType>
     <ClosureCode>0</ClosureCode>
-    <RecordOpeningDate>20240530</RecordOpeningDate>
+    <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
   </Replica>
 </BIA>
