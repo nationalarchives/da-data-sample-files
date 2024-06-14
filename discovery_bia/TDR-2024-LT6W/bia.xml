@@ -63,6 +63,11 @@
     <CoveringToDate>20230329</CoveringToDate>
     <LiveFlag>0</LiveFlag>
     <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>bfb4c7a7-17d1-448f-a440-212acb6c8922</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
   </InformationAsset>
   <InformationAsset>
     <IAID>ZDD62C</IAID>
@@ -163,6 +168,11 @@
     <CoveringToDate>20230328</CoveringToDate>
     <LiveFlag>0</LiveFlag>
     <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>ec555604-a43e-47f7-93a6-5a9bf6a555f3</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
   </InformationAsset>
   <InformationAsset>
     <IAID>ZDD62F</IAID>
@@ -232,6 +242,11 @@
     <CoveringToDate>20230329</CoveringToDate>
     <LiveFlag>0</LiveFlag>
     <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>1e12b870-7c04-45d5-aae6-619a22a7ac34</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
     <RelatedMaterials>
       <RelatedMaterial>
         <Description>To see an open redacted version of this record go to</Description>
@@ -280,6 +295,48 @@
     <ClosureCode>0</ClosureCode>
     <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>bfb4c7a7-17d1-448f-a440-212acb6c8922</Id>
+    <RelatedToIA>ZDD62J</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDD62J</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>[redacted]-b2</DigitalFileName>
+            <DigitalFileRef>bfb4c7a7-17d1-448f-a440-212acb6c8922</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>0</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
+            <DigitalFileDirectory completePath="TSTA 1/folder-b">
+              <Folder>
+                <Label>folder-b</Label>
+                <ID>616057a9-f5b7-4dd0-a26d-ba556494c8e2</ID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+              </Folder>
+              <Folder>
+                <Label>TSTA 1</Label>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>F</ClosureType>
+            <ClosureCode>50</ClosureCode>
+            <RecordOpeningDate>20730330</RecordOpeningDate>
+            <ClosureStatus>C</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>F</ClosureType>
+        <ClosureCode>50</ClosureCode>
+        <RecordOpeningDate>20730330</RecordOpeningDate>
+        <ClosureStatus>C</ClosureStatus>
+      </Folio>
+    </Folios>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>50</ClosureCode>
+    <RecordOpeningDate>20730330</RecordOpeningDate>
+    <ClosureStatus>C</ClosureStatus>
   </Replica>
   <Replica>
     <Id>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</Id>
@@ -366,6 +423,48 @@
     <ClosureStatus>O</ClosureStatus>
   </Replica>
   <Replica>
+    <Id>ec555604-a43e-47f7-93a6-5a9bf6a555f3</Id>
+    <RelatedToIA>ZDD628</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDD628</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>file-a2.txt</DigitalFileName>
+            <DigitalFileRef>ec555604-a43e-47f7-93a6-5a9bf6a555f3</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>0</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
+            <DigitalFileDirectory completePath="TSTA 1/folder-a">
+              <Folder>
+                <Label>folder-a</Label>
+                <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+              </Folder>
+              <Folder>
+                <Label>TSTA 1</Label>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>F</ClosureType>
+            <ClosureCode>20</ClosureCode>
+            <RecordOpeningDate>20430330</RecordOpeningDate>
+            <ClosureStatus>D</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>F</ClosureType>
+        <ClosureCode>20</ClosureCode>
+        <RecordOpeningDate>20430330</RecordOpeningDate>
+        <ClosureStatus>D</ClosureStatus>
+      </Folio>
+    </Folios>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>20</ClosureCode>
+    <RecordOpeningDate>20430330</RecordOpeningDate>
+    <ClosureStatus>D</ClosureStatus>
+  </Replica>
+  <Replica>
     <Id>2b4efed7-2464-467c-a9bc-7132264538d4</Id>
     <RelatedToIA>ZDD62F</RelatedToIA>
     <Folios>
@@ -406,6 +505,48 @@
     <ClosureCode>0</ClosureCode>
     <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>1e12b870-7c04-45d5-aae6-619a22a7ac34</Id>
+    <RelatedToIA>ZDD62K</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDD62K</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>[redacted]_file</DigitalFileName>
+            <DigitalFileRef>1e12b870-7c04-45d5-aae6-619a22a7ac34</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>0</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFilePUID>x-fmt/111</DigitalFilePUID>
+            <DigitalFileDirectory completePath="TSTA 1/redacted">
+              <Folder>
+                <Label>redacted</Label>
+                <ID>207d2eb1-c976-4099-851f-830e7c3113a9</ID>
+                <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+              </Folder>
+              <Folder>
+                <Label>TSTA 1</Label>
+                <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>F</ClosureType>
+            <ClosureCode>20</ClosureCode>
+            <RecordOpeningDate>20430330</RecordOpeningDate>
+            <ClosureStatus>C</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>F</ClosureType>
+        <ClosureCode>20</ClosureCode>
+        <RecordOpeningDate>20430330</RecordOpeningDate>
+        <ClosureStatus>C</ClosureStatus>
+      </Folio>
+    </Folios>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>20</ClosureCode>
+    <RecordOpeningDate>20430330</RecordOpeningDate>
+    <ClosureStatus>C</ClosureStatus>
   </Replica>
   <AccessRegulation>
     <RelatedToIA>ZDD62J</RelatedToIA>

@@ -29,6 +29,11 @@
     <CoveringToDate>20240524</CoveringToDate>
     <LiveFlag>0</LiveFlag>
     <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>533d1534-46f5-40c7-80ac-e47359020e95</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
     <RelatedMaterials>
       <RelatedMaterial>
         <Description>This is a redacted record. To make a Freedom of Information request for the full record go to</Description>
@@ -132,6 +137,11 @@
     <CoveringToDate>20190514</CoveringToDate>
     <LiveFlag>0</LiveFlag>
     <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>3aa2f6a5-f15c-483d-a099-af95091a5add</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
     <RelatedMaterials>
       <RelatedMaterial>
         <Description>To see a closed redacted version of this record go to</Description>
@@ -175,6 +185,11 @@
     <CoveringToDate>20240524</CoveringToDate>
     <LiveFlag>0</LiveFlag>
     <Digitized>true</Digitized>
+    <ReplicaIdentities>
+      <ReplicaIdentity>
+        <ReplicaId>3426d448-e618-4176-b851-5e480e85839e</ReplicaId>
+      </ReplicaIdentity>
+    </ReplicaIdentities>
     <RelatedMaterials>
       <RelatedMaterial>
         <Description>This is a redacted record. To make a Freedom of Information request for the full record go to</Description>
@@ -291,6 +306,63 @@
     </RelatedMaterials>
   </InformationAsset>
   <Replica>
+    <Id>533d1534-46f5-40c7-80ac-e47359020e95</Id>
+    <RelatedToIA>ZDG7JD</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDG7JD</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>exporting from DROID_R1.png</DigitalFileName>
+            <DigitalFileRef>533d1534-46f5-40c7-80ac-e47359020e95</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>40</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFilePUID>fmt/12</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3/folder5">
+              <Folder>
+                <Label>folder5</Label>
+                <ID>816ffe64-adbb-4890-b781-223207d1e71e</ID>
+                <ParentID>2770fa82-4259-4336-b761-0566b58c9ee5</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder3</Label>
+                <ID>2770fa82-4259-4336-b761-0566b58c9ee5</ID>
+                <ParentID>587b89e9-35c1-43a7-803f-661066e6b46f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>587b89e9-35c1-43a7-803f-661066e6b46f</ID>
+                <ParentID>454c0db9-e2af-49e1-9ebe-4949f6b722ae</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>454c0db9-e2af-49e1-9ebe-4949f6b722ae</ID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+              </Folder>
+              <Folder>
+                <Label>MOCK1 123</Label>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>F</ClosureType>
+            <ClosureCode>30</ClosureCode>
+            <RecordOpeningDate>20490515</RecordOpeningDate>
+            <ClosureStatus>D</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>F</ClosureType>
+        <ClosureCode>30</ClosureCode>
+        <RecordOpeningDate>20490515</RecordOpeningDate>
+        <ClosureStatus>D</ClosureStatus>
+      </Folio>
+    </Folios>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>30</ClosureCode>
+    <RecordOpeningDate>20490515</RecordOpeningDate>
+    <ClosureStatus>D</ClosureStatus>
+  </Replica>
+  <Replica>
     <Id>193d847a-0284-4a9b-882c-d012ad305c16</Id>
     <RelatedToIA>ZDG7JG</RelatedToIA>
     <Folios>
@@ -378,6 +450,120 @@
     <ClosureCode>0</ClosureCode>
     <RecordOpeningDate>20240614</RecordOpeningDate>
     <ClosureStatus>O</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>3aa2f6a5-f15c-483d-a099-af95091a5add</Id>
+    <RelatedToIA>ZDG7JM</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDG7JM</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>exporting from DROID.png</DigitalFileName>
+            <DigitalFileRef>3aa2f6a5-f15c-483d-a099-af95091a5add</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>44</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFilePUID>fmt/12</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3/folder5">
+              <Folder>
+                <Label>folder5</Label>
+                <ID>816ffe64-adbb-4890-b781-223207d1e71e</ID>
+                <ParentID>2770fa82-4259-4336-b761-0566b58c9ee5</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder3</Label>
+                <ID>2770fa82-4259-4336-b761-0566b58c9ee5</ID>
+                <ParentID>587b89e9-35c1-43a7-803f-661066e6b46f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>587b89e9-35c1-43a7-803f-661066e6b46f</ID>
+                <ParentID>454c0db9-e2af-49e1-9ebe-4949f6b722ae</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>454c0db9-e2af-49e1-9ebe-4949f6b722ae</ID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+              </Folder>
+              <Folder>
+                <Label>MOCK1 123</Label>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>F</ClosureType>
+            <ClosureCode>50</ClosureCode>
+            <RecordOpeningDate>20690515</RecordOpeningDate>
+            <ClosureStatus>D</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>F</ClosureType>
+        <ClosureCode>50</ClosureCode>
+        <RecordOpeningDate>20690515</RecordOpeningDate>
+        <ClosureStatus>D</ClosureStatus>
+      </Folio>
+    </Folios>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>50</ClosureCode>
+    <RecordOpeningDate>20690515</RecordOpeningDate>
+    <ClosureStatus>D</ClosureStatus>
+  </Replica>
+  <Replica>
+    <Id>3426d448-e618-4176-b851-5e480e85839e</Id>
+    <RelatedToIA>ZDG7JT</RelatedToIA>
+    <Folios>
+      <Folio>
+        <FolioId>ZDG7JT</FolioId>
+        <DigitalFiles>
+          <DigitalFile>
+            <DigitalFileName>exporting from DROID_R.png</DigitalFileName>
+            <DigitalFileRef>3426d448-e618-4176-b851-5e480e85839e</DigitalFileRef>
+            <DigitalFilePartNumber>1</DigitalFilePartNumber>
+            <DigitalFileSize>41</DigitalFileSize>
+            <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+            <DigitalFilePUID>fmt/12</DigitalFilePUID>
+            <DigitalFileDirectory completePath="MOCK1 123/folder1/folder2/folder3/folder5">
+              <Folder>
+                <Label>folder5</Label>
+                <ID>816ffe64-adbb-4890-b781-223207d1e71e</ID>
+                <ParentID>2770fa82-4259-4336-b761-0566b58c9ee5</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder3</Label>
+                <ID>2770fa82-4259-4336-b761-0566b58c9ee5</ID>
+                <ParentID>587b89e9-35c1-43a7-803f-661066e6b46f</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder2</Label>
+                <ID>587b89e9-35c1-43a7-803f-661066e6b46f</ID>
+                <ParentID>454c0db9-e2af-49e1-9ebe-4949f6b722ae</ParentID>
+              </Folder>
+              <Folder>
+                <Label>folder1</Label>
+                <ID>454c0db9-e2af-49e1-9ebe-4949f6b722ae</ID>
+                <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+              </Folder>
+              <Folder>
+                <Label>MOCK1 123</Label>
+                <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+              </Folder>
+            </DigitalFileDirectory>
+            <ClosureType>F</ClosureType>
+            <ClosureCode>40</ClosureCode>
+            <RecordOpeningDate>20590515</RecordOpeningDate>
+            <ClosureStatus>D</ClosureStatus>
+          </DigitalFile>
+        </DigitalFiles>
+        <ClosureType>F</ClosureType>
+        <ClosureCode>40</ClosureCode>
+        <RecordOpeningDate>20590515</RecordOpeningDate>
+        <ClosureStatus>D</ClosureStatus>
+      </Folio>
+    </Folios>
+    <ClosureType>F</ClosureType>
+    <ClosureCode>40</ClosureCode>
+    <RecordOpeningDate>20590515</RecordOpeningDate>
+    <ClosureStatus>D</ClosureStatus>
   </Replica>
   <Replica>
     <Id>65a0c2b2-6af5-404d-b04c-9f20848165af</Id>
