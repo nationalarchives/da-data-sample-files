@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfCommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferStart</CommandName>
+    <CommandParameters>
+      <ArchonId>66</ArchonId>
+      <DepartmentCode>TSTA</DepartmentCode>
+    </CommandParameters>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD629</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD629</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>file-a1,.txt</Title>
+      <CoveringDates>2023 Mar 29</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240619</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230329</CoveringFromDate>
+      <CoveringToDate>20230329</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>f4be0843-67c4-4dc1-926d-7f50935fe748</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD62J</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD62J</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>[redacted]-b2</Title>
+      <CoveringDates>2023 Mar 29</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>F</ClosureType>
+      <ClosureCode>50</ClosureCode>
+      <RecordOpeningDate>20730330</RecordOpeningDate>
+      <ClosureStatus>C</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230329</CoveringFromDate>
+      <CoveringToDate>20230329</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>bfb4c7a7-17d1-448f-a440-212acb6c8922</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD62C</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD62C</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>file-a1.txt</Title>
+      <CoveringDates>2023 Mar 29</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240619</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230329</CoveringFromDate>
+      <CoveringToDate>20230329</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD62D</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD62D</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>file-b1.txt</Title>
+      <CoveringDates>2023 Mar 29</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240619</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230329</CoveringFromDate>
+      <CoveringToDate>20230329</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>14576aea-1322-45d5-aa64-63f4e91654bc</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD628</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD628</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>file-a2.txt</Title>
+      <CoveringDates>2023 Mar 28</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>F</ClosureType>
+      <ClosureCode>20</ClosureCode>
+      <RecordOpeningDate>20430330</RecordOpeningDate>
+      <ClosureStatus>D</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <ScopeContent>
+        <Description>This is a [redacted] description</Description>
+      </ScopeContent>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230328</CoveringFromDate>
+      <CoveringToDate>20230328</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>ec555604-a43e-47f7-93a6-5a9bf6a555f3</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD62F</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD62F</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>closed_file_R.pdf</Title>
+      <CoveringDates>2023 Mar 29</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240619</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <RelatedMaterials>
+        <RelatedMaterial>
+          <Description>This is a redacted record. To make a Freedom of Information request for the full record go to</Description>
+          <IAID>ZDD62K</IAID>
+        </RelatedMaterial>
+      </RelatedMaterials>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230329</CoveringFromDate>
+      <CoveringToDate>20230329</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>2b4efed7-2464-467c-a9bc-7132264538d4</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDD62K</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupTSTA1</ParentIAID>
+      <Reference>TSTA 1/ZDD62K</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>[redacted]_file</Title>
+      <CoveringDates>2023 Mar 29</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>F</ClosureType>
+      <ClosureCode>20</ClosureCode>
+      <RecordOpeningDate>20430330</RecordOpeningDate>
+      <ClosureStatus>C</ClosureStatus>
+      <RestrictionOnUse>Crown Copyright</RestrictionOnUse>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <RelatedMaterials>
+        <RelatedMaterial>
+          <Description>To see an open redacted version of this record go to</Description>
+          <IAID>ZDD62F</IAID>
+        </RelatedMaterial>
+      </RelatedMaterials>
+      <BatchId>TDR-2024-LT6W</BatchId>
+      <CoveringFromDate>20230329</CoveringFromDate>
+      <CoveringToDate>20230329</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>1e12b870-7c04-45d5-aae6-619a22a7ac34</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferSAR</CommandName>
+    <AccessRegulation>
+      <RelatedToIA>ZDD62J</RelatedToIA>
+      <ClosureCriterions>
+        <ClosureCriterion>
+          <ExemptionCodeId>40(2)</ExemptionCodeId>
+        </ClosureCriterion>
+      </ClosureCriterions>
+      <SignedDate>2024-03-03T00:00:00</SignedDate>
+      <ProcatTitle>Exemption</ProcatTitle>
+    </AccessRegulation>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferSAR</CommandName>
+    <AccessRegulation>
+      <RelatedToIA>ZDD628</RelatedToIA>
+      <ClosureCriterions>
+        <ClosureCriterion>
+          <ExemptionCodeId>29</ExemptionCodeId>
+        </ClosureCriterion>
+        <ClosureCriterion>
+          <ExemptionCodeId>40(2)</ExemptionCodeId>
+        </ClosureCriterion>
+      </ClosureCriterions>
+      <SignedDate>2024-03-11T00:00:00</SignedDate>
+      <ProcatTitle>Exemption</ProcatTitle>
+    </AccessRegulation>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferSAR</CommandName>
+    <AccessRegulation>
+      <RelatedToIA>ZDD62K</RelatedToIA>
+      <ClosureCriterions>
+        <ClosureCriterion>
+          <ExemptionCodeId>40(2)</ExemptionCodeId>
+        </ClosureCriterion>
+      </ClosureCriterions>
+      <SignedDate>2024-03-11T00:00:00</SignedDate>
+      <ProcatTitle>Exemption</ProcatTitle>
+    </AccessRegulation>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>file-a1,.txt</DigitalFileName>
+              <DigitalFileRef>f4be0843-67c4-4dc1-926d-7f50935fe748</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>folder-a</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD629</FolioId>
+          <RecordOpeningDate>20240619</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>f4be0843-67c4-4dc1-926d-7f50935fe748</Id>
+      <RelatedToIA>ZDD629</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>[redacted]-b2</DigitalFileName>
+              <DigitalFileRef>bfb4c7a7-17d1-448f-a440-212acb6c8922</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>616057a9-f5b7-4dd0-a26d-ba556494c8e2</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>folder-b</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>50</ClosureCode>
+              <ClosureStatus>C</ClosureStatus>
+              <ClosureType>F</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD62J</FolioId>
+          <RecordOpeningDate>20730330</RecordOpeningDate>
+          <ClosureCode>50</ClosureCode>
+          <ClosureStatus>C</ClosureStatus>
+          <ClosureType>F</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>bfb4c7a7-17d1-448f-a440-212acb6c8922</Id>
+      <RelatedToIA>ZDD62J</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>file-a1.txt</DigitalFileName>
+              <DigitalFileRef>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>folder-a</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD62C</FolioId>
+          <RecordOpeningDate>20240619</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>7ee2c948-ff06-4c2f-b75c-4260f47bbf26</Id>
+      <RelatedToIA>ZDD62C</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>file-b1.txt</DigitalFileName>
+              <DigitalFileRef>14576aea-1322-45d5-aa64-63f4e91654bc</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>616057a9-f5b7-4dd0-a26d-ba556494c8e2</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>folder-b</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD62D</FolioId>
+          <RecordOpeningDate>20240619</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>14576aea-1322-45d5-aa64-63f4e91654bc</Id>
+      <RelatedToIA>ZDD62D</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>file-a2.txt</DigitalFileName>
+              <DigitalFileRef>ec555604-a43e-47f7-93a6-5a9bf6a555f3</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>c5f6c252-6ae3-4e67-89cf-7703c32ef4e0</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>folder-a</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>20</ClosureCode>
+              <ClosureStatus>D</ClosureStatus>
+              <ClosureType>F</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD628</FolioId>
+          <RecordOpeningDate>20430330</RecordOpeningDate>
+          <ClosureCode>20</ClosureCode>
+          <ClosureStatus>D</ClosureStatus>
+          <ClosureType>F</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>ec555604-a43e-47f7-93a6-5a9bf6a555f3</Id>
+      <RelatedToIA>ZDD628</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>closed_file_R.pdf</DigitalFileName>
+              <DigitalFileRef>2b4efed7-2464-467c-a9bc-7132264538d4</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>207d2eb1-c976-4099-851f-830e7c3113a9</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>redacted</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD62F</FolioId>
+          <RecordOpeningDate>20240619</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>2b4efed7-2464-467c-a9bc-7132264538d4</Id>
+      <RelatedToIA>ZDD62F</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>[redacted]_file</DigitalFileName>
+              <DigitalFileRef>1e12b870-7c04-45d5-aae6-619a22a7ac34</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>0</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>207d2eb1-c976-4099-851f-830e7c3113a9</ID>
+                  <ParentID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ParentID>
+                  <Label>redacted</Label>
+                </Folder>
+                <Folder>
+                  <ID>eb491fd5-0f5a-4ae6-b582-a37f76dae5c6</ID>
+                  <Label>TSTA 1</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>20</ClosureCode>
+              <ClosureStatus>C</ClosureStatus>
+              <ClosureType>F</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDD62K</FolioId>
+          <RecordOpeningDate>20430330</RecordOpeningDate>
+          <ClosureCode>20</ClosureCode>
+          <ClosureStatus>C</ClosureStatus>
+          <ClosureType>F</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>1e12b870-7c04-45d5-aae6-619a22a7ac34</Id>
+      <RelatedToIA>ZDD62K</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240619163126150_TDR-2024-LT6W</TransferId>
+    <CommandName>TransferEnd</CommandName>
+  </CommandMessage>
+</ArrayOfCommandMessage>
