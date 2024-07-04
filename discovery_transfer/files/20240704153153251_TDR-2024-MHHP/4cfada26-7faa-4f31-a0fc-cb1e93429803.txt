@@ -1,0 +1,33 @@
+Digital Object: The archive has a relatively small amount of born digital material (20%), but has amassed a reasonable quantity of surrogates through digitisation projects (80%). They do not have any digitised records.
+Storage Medium: it is estimated that around 10% of the collection is still on the original media, some of which is among the paper files, the remainder is on the wider organisation's corporate storage (90%)
+Replication and Refreshment: where original media is among the paper files it has not yet had a copy created, so 95% of material is estimated to have an additional copy
+							 For those files where there is an additional copy, it is managed by the corporate backup processes, so it is believed that this will always ensure an additional copy is available (100%)
+Physical disaster: low risk
+Operating environment: again the 95% of material which is on corporate storage is all backed up with an offsite copy
+						The remaining 5% are in repositories well protected against flood
+Checksum: For our most recently produced surrogate material checksums are produced as part of the workflow (25%), for the most recently acquired born digital we have generated checksums on receipt (15%) but for 60% we either still don't have checksums, or they were generated only some time after they had been in our custody, so we cannot be absolutely sure that they have not changed since we first received them.
+System security: the organisation of which we are part is ISO 27001 accredited
+				however, there has been no specific testing of our archival systems
+				Control functional area of the NDSA Levels of Preservation: Level 1. We have worked out who should have access to the areas where we are storing our archival data, but systems are not yet fully in place to monitor this and ensure that accounts are revoked when staff leave or move to other roles
+				Anti-virus, No - we didn't always specifically record the result (although all material will have been checked as it moved to corporate storage), some material is still on original media nad has not yet been checked
+Information management: NDSA Metadata functional area: we have just about reached Level 1, we have documented the location of material (although in somewhat broad terms for material that remains on original media among paper records), and that is backed up (with offsite storage)
+						Content functional area: Not achieved, as there is material still on untouched original media we have not yet characterised all material.
+						DPC RAM content preservation: Basic: although as described for NDSA content functional area we have not yet managed to assess all material, the process exists and is underway
+						DPC RAM Metadata management: Awareness: this is still more of a work in progress
+Technical skills:	KIA 1.9 Apply appropriate technological solutions Basic, we know some solutions, but couldn't really say we understand them
+					KIA 1.12 Digital preservation standards Intermediate, we think we understand OAIS, NDSA LEvels, DPC RAM etc pretty well, but aren't fully implementing these yet
+					KIA 1.15 Information technology definitions and skills, Basic, definitely still only getting to grips with this, but have some awareness
+					KIA 1.16 Select and apply digital curation and preservation techniques Intermediate, we understand and are applying basic techniques, but need to work on the more advanced skills
+					KIA 3.4 Continuously monitor and evaluate digital curation technologies. Basic, doing our best, but don't feel we're anywhere near on top of this yet
+					KIA 5.1 Data structures and types. Basic, probably better than that on simpler formats, but more complex objects and relational data need more work
+					KIA 5.2 File types, applications and systems. Intermediate, we could do with learning more, but for the material we acutally hold currently we understand it OK
+					KIA 5.3 Database types and structures. None, this is an area we really need to work on
+					KIA 5.4 Execute analysis of and forensic procedures in digital curation. None
+					PQ 3.9 Translate current digital curation knowledge into new services and tools. Basic, we're are turning our current knowledge into a workable service.
+					
+
+Scenario: have a penetration test and resolve critical issues
+			Move to NDSA Control Level 2
+			Ensure we have a virus check on record for all material
+			Technical skills, improve all areas we are currently on Basic to Intermediate, and None to Basic
+			Information management, move to NDSA Metadata Level 2 and Content Level 1

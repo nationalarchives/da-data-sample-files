@@ -1,0 +1,36 @@
+Check for alias or nee in UDF 2 (case insensitive) -> report
+
+Check for "," "." "/" "\" in UDF1, split on that if present
+
+Otherwise split on " "
+
+check each part for ALIAS - AS also seems to be used as an abbreviation - then treat parts either side separately?
+
+Check first part for Mc/Mac and Fitz? - stick to next bit with no space, uppercase lowercase each part first
+
+Check for other participles de, du, de la, la, le, d', van, van der, van den, von, St etc
+
+If all parts fairly equal length assume with have surname followed by full forenames
+
+If last part only 3 (4?) characters assume that that is initials and we have multibarrelled surname before that
+
+If last part matches content of UDF4 assume it is regiment/corps and drop
+
+Other exceptions HRH Prince
+
+ranks at front or end
+
+
+
+
+Code I'd started trying to do in tMap - didn't like my attempt to cast between Object and String[] (array of strings). Sure I did something similar in another job, but can't find it now: maybe in eval stuff?
+
+row1.UDF1.split(",")	Object	var1
+len((String[])Var.var1)==2?(String[])Var.var1[1]:""	String	surname
+len((String[])Var.var1)==2?(String[])Var.var1[2]:""	String	initials
+
+May be better to move into tJava (or similar) use regex to match and process different cases, rather than splitting first.
+
+Need to be careful with Nee, get Mc Nee too. Also can appear in Description or UDF2
+
+Mac names (no space) - balance seems to be towards it meing MacSomething, so default to capping up following letter and highlight for review, probably less manual work that way, could exclude if only 1 or 2 characters after Mac and or a specific exclude list eg Mackie, Mackin, Macey etc

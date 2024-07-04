@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfCommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferStart</CommandName>
+    <CommandParameters>
+      <ArchonId>66</ArchonId>
+      <DepartmentCode>MOCK1</DepartmentCode>
+      <DepartmentSeries>123</DepartmentSeries>
+    </CommandParameters>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDG7J9</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
+      <Reference>MOCK1 123/ZDG7J9</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>Name split heuristics.txt</Title>
+      <CoveringDates>2023 Aug 10</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240704</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-MHHP</BatchId>
+      <CoveringFromDate>20230810</CoveringFromDate>
+      <CoveringToDate>20230810</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>d5d9c4b3-ee7b-49f9-9836-acc200a432f4</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDG7HV</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
+      <Reference>MOCK1 123/ZDG7HV</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>CSV Schema Language example.PNG</Title>
+      <CoveringDates>2020 Jan 09</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240704</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-MHHP</BatchId>
+      <CoveringFromDate>20200109</CoveringFromDate>
+      <CoveringToDate>20200109</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>e04141e2-6773-4cf8-be9f-81dc663d4199</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDG7J5</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
+      <Reference>MOCK1 123/ZDG7J5</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>exporting from DROID.png</Title>
+      <CoveringDates>2019 May 14</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240704</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-MHHP</BatchId>
+      <CoveringFromDate>20190514</CoveringFromDate>
+      <CoveringToDate>20190514</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>e2f25a74-1e3e-4a98-ad36-239d4fd23782</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDG7J6</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
+      <Reference>MOCK1 123/ZDG7J6</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>user evaluation model values and comments.txt</Title>
+      <CoveringDates>2020 Oct 02</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240704</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-MHHP</BatchId>
+      <CoveringFromDate>20201002</CoveringFromDate>
+      <CoveringToDate>20201002</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>4cfada26-7faa-4f31-a0fc-cb1e93429803</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferIA</CommandName>
+    <InformationAsset>
+      <IAID>ZDG7J8</IAID>
+      <SourceLevelId>6</SourceLevelId>
+      <ParentIAID>iaidFromLookupMOCK1123</ParentIAID>
+      <Reference>MOCK1 123/ZDG7J8</Reference>
+      <CatalogueId>0</CatalogueId>
+      <Language>English</Language>
+      <LegalStatus>Public Record(s)</LegalStatus>
+      <Title>DiAGRAM-Roboto.jpg</Title>
+      <CoveringDates>2020 Oct 19</CoveringDates>
+      <PhysicalDescriptionExtent>1</PhysicalDescriptionExtent>
+      <PhysicalDescriptionForm>digital record</PhysicalDescriptionForm>
+      <HeldBy>
+        <HeldBy>
+          <Corporate_Body_Name_Text>The National Archives, Kew</Corporate_Body_Name_Text>
+        </HeldBy>
+      </HeldBy>
+      <ClosureType>A</ClosureType>
+      <ClosureCode>0</ClosureCode>
+      <RecordOpeningDate>20240704</RecordOpeningDate>
+      <ClosureStatus>O</ClosureStatus>
+      <Arrangement>This born digital record was arranged under the following file structure:</Arrangement>
+      <BatchId>TDR-2024-MHHP</BatchId>
+      <CoveringFromDate>20201019</CoveringFromDate>
+      <CoveringToDate>20201019</CoveringToDate>
+      <LiveFlag>0</LiveFlag>
+      <Digitized>true</Digitized>
+      <ReplicaIdentities>
+        <ReplicaIdentity>
+          <ReplicaId>5d28acef-c7d6-440e-b86b-8281fa7e7ea6</ReplicaId>
+        </ReplicaIdentity>
+      </ReplicaIdentities>
+    </InformationAsset>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>Name split heuristics.txt</DigitalFileName>
+              <DigitalFileRef>d5d9c4b3-ee7b-49f9-9836-acc200a432f4</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>1</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>3dead773-b330-45e6-8cb5-33aa63761eba</ID>
+                  <ParentID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ParentID>
+                  <Label>folder4</Label>
+                </Folder>
+                <Folder>
+                  <ID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ID>
+                  <ParentID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ParentID>
+                  <Label>folder3</Label>
+                </Folder>
+                <Folder>
+                  <ID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ID>
+                  <ParentID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ParentID>
+                  <Label>folder2</Label>
+                </Folder>
+                <Folder>
+                  <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
+                  <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+                  <Label>folder1</Label>
+                </Folder>
+                <Folder>
+                  <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+                  <Label>MOCK1 123</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDG7J9</FolioId>
+          <RecordOpeningDate>20240704</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>d5d9c4b3-ee7b-49f9-9836-acc200a432f4</Id>
+      <RelatedToIA>ZDG7J9</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>CSV Schema Language example.PNG</DigitalFileName>
+              <DigitalFileRef>e04141e2-6773-4cf8-be9f-81dc663d4199</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>4</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>590966e6-8ea7-47a6-9206-12ac13f119ea</ID>
+                  <ParentID>3dead773-b330-45e6-8cb5-33aa63761eba</ParentID>
+                  <Label>folder6</Label>
+                </Folder>
+                <Folder>
+                  <ID>3dead773-b330-45e6-8cb5-33aa63761eba</ID>
+                  <ParentID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ParentID>
+                  <Label>folder4</Label>
+                </Folder>
+                <Folder>
+                  <ID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ID>
+                  <ParentID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ParentID>
+                  <Label>folder3</Label>
+                </Folder>
+                <Folder>
+                  <ID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ID>
+                  <ParentID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ParentID>
+                  <Label>folder2</Label>
+                </Folder>
+                <Folder>
+                  <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
+                  <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+                  <Label>folder1</Label>
+                </Folder>
+                <Folder>
+                  <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+                  <Label>MOCK1 123</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDG7HV</FolioId>
+          <RecordOpeningDate>20240704</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>e04141e2-6773-4cf8-be9f-81dc663d4199</Id>
+      <RelatedToIA>ZDG7HV</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>exporting from DROID.png</DigitalFileName>
+              <DigitalFileRef>e2f25a74-1e3e-4a98-ad36-239d4fd23782</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>44</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>172f355a-baba-4b60-9e0f-a15e3a6269c4</ID>
+                  <ParentID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ParentID>
+                  <Label>folder5</Label>
+                </Folder>
+                <Folder>
+                  <ID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ID>
+                  <ParentID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ParentID>
+                  <Label>folder3</Label>
+                </Folder>
+                <Folder>
+                  <ID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ID>
+                  <ParentID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ParentID>
+                  <Label>folder2</Label>
+                </Folder>
+                <Folder>
+                  <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
+                  <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+                  <Label>folder1</Label>
+                </Folder>
+                <Folder>
+                  <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+                  <Label>MOCK1 123</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDG7J5</FolioId>
+          <RecordOpeningDate>20240704</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>e2f25a74-1e3e-4a98-ad36-239d4fd23782</Id>
+      <RelatedToIA>ZDG7J5</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>user evaluation model values and comments.txt</DigitalFileName>
+              <DigitalFileRef>4cfada26-7faa-4f31-a0fc-cb1e93429803</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>4</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+                  <Label>MOCK1 123</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDG7J6</FolioId>
+          <RecordOpeningDate>20240704</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>4cfada26-7faa-4f31-a0fc-cb1e93429803</Id>
+      <RelatedToIA>ZDG7J6</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferRE</CommandName>
+    <Replica>
+      <Folios>
+        <Folio>
+          <DigitalFiles>
+            <DigitalFile>
+              <DigitalFileName>DiAGRAM-Roboto.jpg</DigitalFileName>
+              <DigitalFileRef>5d28acef-c7d6-440e-b86b-8281fa7e7ea6</DigitalFileRef>
+              <DigitalFilePartNumber>1</DigitalFilePartNumber>
+              <DigitalFileSize>1081</DigitalFileSize>
+              <DigitalFileNumberOfPages>1</DigitalFileNumberOfPages>
+              <DigitalFileDirectory>
+                <Folder>
+                  <ID>9ae4319f-ff78-4d9c-b308-de0cf8a68658</ID>
+                  <ParentID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ParentID>
+                  <Label>folder3</Label>
+                </Folder>
+                <Folder>
+                  <ID>ab4c3f13-0926-4ab1-b5bb-5efb95c7e5c4</ID>
+                  <ParentID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ParentID>
+                  <Label>folder2</Label>
+                </Folder>
+                <Folder>
+                  <ID>c356058c-af78-4270-9f0d-bc5da0fc9abd</ID>
+                  <ParentID>6e10a121-9575-4f46-9f88-323033b9173a</ParentID>
+                  <Label>folder1</Label>
+                </Folder>
+                <Folder>
+                  <ID>6e10a121-9575-4f46-9f88-323033b9173a</ID>
+                  <Label>MOCK1 123</Label>
+                </Folder>
+              </DigitalFileDirectory>
+              <ClosureCode>0</ClosureCode>
+              <ClosureStatus>O</ClosureStatus>
+              <ClosureType>A</ClosureType>
+            </DigitalFile>
+          </DigitalFiles>
+          <FolioId>ZDG7J8</FolioId>
+          <RecordOpeningDate>20240704</RecordOpeningDate>
+          <ClosureCode>0</ClosureCode>
+          <ClosureStatus>O</ClosureStatus>
+          <ClosureType>A</ClosureType>
+          <Tag>DOL</Tag>
+        </Folio>
+      </Folios>
+      <Id>5d28acef-c7d6-440e-b86b-8281fa7e7ea6</Id>
+      <RelatedToIA>ZDG7J8</RelatedToIA>
+    </Replica>
+  </CommandMessage>
+  <CommandMessage>
+    <TransferId>20240704153153251_TDR-2024-MHHP</TransferId>
+    <CommandName>TransferEnd</CommandName>
+  </CommandMessage>
+</ArrayOfCommandMessage>
