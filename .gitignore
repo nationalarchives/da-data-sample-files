@@ -1,5 +1,5 @@
 /.idea/
-# exclude previous bad sample data folders. 
+# exclude previous bad sample data folders
 /tdr_consignments/unarchived/V5/TDR-2023-TH4
 /tdr_consignments/unarchived/V5/TDR-2023-TMT
 /tdr_consignments/unarchived/V8/TDR-2024-H5DN
